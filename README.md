@@ -1,2 +1,2 @@
 # Module3.JS
-Fundaentals, intermediate, advanced js
+Fundamentals, intermediate, advanced js
